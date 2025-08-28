@@ -20,10 +20,13 @@ Classes (10 categories): Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse
 
 👉 The dataset is provided by Torchvision and is widely used for benchmarking image classification models.
 
-## 🎯 Objectives
-- To understand image classification using the CIFAR-10 dataset.  
-- To learn the importance of CNN architecture (convolution, pooling, and fully connected layers).  
-- To evaluate and improve model performance on test data.  
+🎯 Objectives
+
+To understand image classification using the CIFAR-10 dataset.
+
+To learn the importance of CNN architecture (convolution, pooling, and fully connected layers).
+
+To evaluate and improve model performance on test data.
 
 ⚙️ Model & Training
 
@@ -37,7 +40,7 @@ Optimizer: SGD
 
 Loss Function: CrossEntropyLoss
 
-Device: GPU (CUDA) 
+Device: GPU (CUDA)
 
 The model includes:
 
@@ -48,9 +51,12 @@ Pooling layers for dimensionality reduction
 Fully connected layers for classification
 
 📊 Results
+
 Epochs: 8
-Test accuracy: 76.18%
-Training accuracy: 82.28 %
+
+Training Accuracy: 82.28%
+
+Test Accuracy: 76.18%
 
 ✅ The model shows steady improvements across epochs.
 ✅ Achieves good classification accuracy on unseen test images.
@@ -63,7 +69,7 @@ Achieved solid accuracy on the CIFAR-10 dataset with a relatively simple archite
 
 Provides a foundation for experimenting with deeper networks, augmentation, and transfer learning.
 
-Requirements
+📦 Requirements
 
 torch
 
