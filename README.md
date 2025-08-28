@@ -55,10 +55,6 @@ Training accuracy: 82.28 %
 ✅ The model shows steady improvements across epochs.
 ✅ Achieves good classification accuracy on unseen test images.
 
-📈 Training Curves
-
-Training Loss vs Epoch (left) and Test Accuracy vs Epoch (right):
-
 ✅ Key Takeaways
 
 CNNs effectively learn hierarchical features from image data.
